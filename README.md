@@ -4,5 +4,7 @@
 
 ## Develop in Swift
 
+- Explore Xcode
+  [ChatPrototype](./ChatPrototype)
 - Models and persistence
   [Birthdays](./Birthdays/)
